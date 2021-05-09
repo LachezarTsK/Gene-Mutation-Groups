@@ -1,4 +1,3 @@
-package geneMutationGroups.gitHub;
 
 public class Solution {
 
@@ -93,4 +92,3 @@ class Subset {
   int parent;
   int rank;
 }
- 
